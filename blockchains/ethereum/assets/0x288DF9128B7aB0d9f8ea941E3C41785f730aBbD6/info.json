@@ -1,0 +1,11 @@
+{
+ "name": "realUSDT",
+ "type": "ERC20",
+ "symbol": "realUSDT",
+ "decimals": 18,
+ "website": "",
+ "description": "realUSDT token",
+ "explorer": "https://etherscan.io/token/0x288DF9128B7aB0d9f8ea941E3C41785f730aBbD6",
+ "status": "active",
+ "id": "0x288DF9128B7aB0d9f8ea941E3C41785f730aBbD6"
+}
